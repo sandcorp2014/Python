@@ -5,3 +5,4 @@ def multiplyBy2(number):
 multiplyBy2(2)
 
 # Some Change
+# Change by mujahid7292
