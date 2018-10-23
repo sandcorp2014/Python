@@ -6,3 +6,6 @@ multiplyBy2(2)
 
 # Some Change
 # Change by mujahid7292
+
+def divideBy2(number):
+	return number / 2
